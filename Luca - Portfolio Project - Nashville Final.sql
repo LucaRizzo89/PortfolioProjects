@@ -1,5 +1,5 @@
 /* This project will focus on data cleaning of the dataset 'NashvilleHousing' */
-/* To follow up, please download the 'Nashville Housing.xlsx' and import it on SQL */
+/* To follow up, please click on PortfolioProjects and download the 'Nashville Housing.xlsx' and import it on SQL */
 
 
 SELECT *
