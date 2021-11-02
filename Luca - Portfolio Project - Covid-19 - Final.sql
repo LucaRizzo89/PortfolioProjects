@@ -1,5 +1,5 @@
 /* This project will focus on getting global and local stats from a Covid-19 dataset. */
-/* To follow along, please click on PortfolioProjects and download the Covid-19.zip file, and import the two .xlsx files on SQL. */
+/* To follow along, please click on PortfolioProjects and download the Covid-19.zip file. */
 
 SELECT *
 FROM CovidDeaths
