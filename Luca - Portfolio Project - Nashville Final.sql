@@ -144,8 +144,8 @@ SELECT *
  SELECT DISTINCT SoldAsVacant
  FROM NashvilleHousing
 
- /* Here we can see that the column 'SoldAsVacant' has 4 different unique values, 'N', 'Yes', 'Y' and 'No'. We want to change this into
- either 'Yes' or 'No'. */
+ /* Here we can see that the column 'SoldAsVacant' has 4 different unique values,
+ 'N', 'Yes', 'Y' and 'No'. We want to change this into either 'Yes' or 'No'. */
 
  SELECT SoldAsVacant, 
 CASE
